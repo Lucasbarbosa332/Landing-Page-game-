@@ -6,7 +6,7 @@ Landing page gamer
 
 
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Landing-Page-game-/blob/main/GameX.png"></img>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
